@@ -115,7 +115,7 @@
     "jira_testIssueTypeNotFound": "Type de ticket \\%{issueType}\\ introuvable.",
     "jira_service_info": "$service_info$",
     "import": "Importer un fichier HAR",
-    "jiraSettings_user": "E-mail du destinataire",
+    "jiraSettings_user": "E-mail du responsable",
     "jiraTicketModal_settingsTitle": "Paramètres Jira",
     "jiraTicketModal_summary": "Titre",
     "noItemsStandalone": "Déposez un fichier *.har ou *.har.zip ici"
